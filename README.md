@@ -1,2 +1,6 @@
-# wordcount_4_PW
-A code snippet to count words (excluding those in parenthesis) in your project work documentation 
+# Wordcount for PW
+A code snippet to count words (excluding those in parenthesis) in your project work documentation :))
+
+'''
+vsdvdsvdsv
+'''
