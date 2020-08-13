@@ -2,7 +2,7 @@
 A code snippet to count words (excluding those in parenthesis) in your project work documentation :))
 
 # Requisites:
-Google chrome version >= 80.0.0000.000 on your local machine
+Google chrome version >= V8 on your local machine
 A Google Docs document
 
 # Documentation
