@@ -21,3 +21,6 @@ If you're using a Mac or Linus Operating System, open terminal and clone the rep
 ```
 git clone https://github.com/algebananazzzzz/wordcount_4_PW.git
 ```
+
+
+If this snippet has issues related to it, feel free to raise an issue. 
