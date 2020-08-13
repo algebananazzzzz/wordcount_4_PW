@@ -3,6 +3,7 @@ A code snippet to count words (excluding those in parenthesis) in your project w
 
 # Requisites:
 Google chrome version >= V8 on your local machine
+
 A Google Docs document
 
 # Documentation
@@ -12,7 +13,9 @@ Navigate to tools in your document, then click on "Script editor"
 Then, copy the code snippet in main.js, and paste it in the editor.
 Save the file and execute it.
 ```
+
 To clone the repository
+
 If you're using a Mac or Linus Operating System, open terminal and clone the repository
 
 ```
